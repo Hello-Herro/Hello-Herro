@@ -1,5 +1,5 @@
 # 👋 Hi! I'm Tera:
-<br> I am studying D4 Informatics Engineering student at Airlangga University with <br>high enthusiasm and interest in-depth understanding of technological advances.<br>Right now i am Intern in DBKlik Surabaya as Front End Developers.
+<br> I am studying D4 Informatics Engineering student at Airlangga University with <br>high enthusiasm and interest in-depth understanding of technological advances.<br>Right now i am Intern in BBPOM Surabaya as Full Stacks Developers.
 
 
 ## 🌐 Socials:
